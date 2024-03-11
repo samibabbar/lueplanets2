@@ -1,4 +1,3 @@
-# ISCI 3A12 Planetary Formation Seminar 2
 Welcome back ISCI 3A12!
 
 We are excited to finish off our seminar series on planetary formation, which will be happening on **Monday, March 18th, 2024 at 2:30 pm (HH 305).** As a recap, we have discussed the following content: 
