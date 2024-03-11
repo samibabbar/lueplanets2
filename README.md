@@ -28,7 +28,7 @@ Thank you for all your hard work thus far, and we are excited to continue our di
 
 > Ben, Keira, Max, Maya, Naya, Sami
 
-## Transitioning from Seminar 1 to Seminar 2
+## Transition: Seminar 1 to Seminar 2
 
 You had questions, we answered! Using our survey, we compared the input you had at the beginning of the seminar with the feedback at the end. As a result, we have compiled the following document answering some of the most common questions reviewing the content. If you were left with any confusion at the end of our last seminar, use this to cross-reference the content and get a better understanding of the content. You can also refer back to our pre-assessment page since it contains important review material, links back to our introduction video, and gives helpful readings/videos.
 
