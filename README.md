@@ -7,6 +7,7 @@ We are excited to finish off our seminar series on planetary formation, which wi
 - Detection methods of exoplanets
 - Categorisation of exoplanets
 - Intro to planetary formation theory
+
 [*Seminar 1*](https://samibabbar.github.io/luegroupplanets/)
 - Progression and development of classical planetary formation theory
 - Steps towards planetary formation (starting from dust growth)
@@ -34,7 +35,9 @@ You had questions, we answered! Using our survey, we compared the input you had 
 [Questions Answered from Last Seminar](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x)
 
 Additionally, one of the main concepts we want to make sure you understand is the accretion of planetesimals into larger bodies, and giant planets. As such, we have created two explanatory videos to ensure that you retain this information. This is a **MANDATORY** part of our pre-seminar, and as such, we expect that you watch both videos for our pre-assessment content. 
+
 [Video 1: Pebble Accretion](https://drive.google.com/file/d/1GwvfK7t266neCJuLUy2Kvr96wk6vJUdW/view?usp=sharing)
+
 [Video 2: Giant Planets](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x)
  
 ## Pre-Assessment Material
