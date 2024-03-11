@@ -25,7 +25,7 @@ Coordinating the pre-assessment with your LUE group and having prepared answers
 
 Thank you for all your hard work thus far, and we are excited to continue our discussion on Monday!
 
-Ben, Keira, Max, Maya, Naya, Sami
+> Ben, Keira, Max, Maya, Naya, Sami
 
 ## Feedback from Seminar 1
 
@@ -37,5 +37,5 @@ Additionally, one of the main concepts we want to make sure you understand is th
 
  
 ## Pre-Assessment Material
-Complete the following quiz pertaining to the introductory videos
-NetLogo assignment
+1. Complete the following quiz pertaining to the introductory videos
+2. NetLogo assignment
