@@ -16,13 +16,13 @@ We are excited to finish off our seminar series on planetary formation, which wi
 With this information, we can now transition into **seminar 2**. Until now, we have covered the formation of exoplanets in the realm of growth from dust to planetary embryos. We also briefly discussed how this diverges off to the formation of different types of exoplanets. The focus of our last seminar will be discussing the formation of these different types and (continuing on from our focus on terrestrial, and gas/ice giants), important trends we see such as radius valleys, and an explanation of planetary migration and the formation of planetary systems. This will leave you, as budding astronomers or simply curious researchers, with some of the most relevant questions in exoplanet research!
 
 For this pre-assessment, please make sure that you complete all the material below. This includes:
-Reviewing seminar 1 content and any questions that you may have
-Completing all pre-assessment material **DUE BY 12:30 pm on Monday, March 18th, 2024**
-This includes the NetLogo simulation and pre-assessment quiz based on the mandatory videos
+- Reviewing seminar 1 content and any questions that you may have
+- Completing all pre-assessment material **DUE BY 12:30 pm on Monday, March 18th, 2024**
+- This includes the NetLogo simulation and pre-assessment quiz based on the mandatory videos
 
 Additionally, you must be prepared to go into the seminar by:
-Bringing a writing utensil
-Coordinating the pre-assessment with your LUE group and having prepared answers
+- Bringing a writing utensil
+- Coordinating the pre-assessment with your LUE group and having prepared answers
 
 Thank you for all your hard work thus far, and we are excited to continue our discussion on Monday!
 
