@@ -34,12 +34,15 @@ You had questions, we answered! Using our survey, we compared the input you had 
 
 [Questions Answered from Last Seminar](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x)
 
-Additionally, one of the main concepts we want to make sure you understand is the accretion of planetesimals into larger bodies, and giant planets. As such, we have created two explanatory videos to ensure that you retain this information. This is a **MANDATORY** part of our pre-seminar, and as such, we expect that you watch both videos for our pre-assessment content. 
+Additionally, one of the main concepts we want to make sure you understand is the accretion of planetesimals into larger bodies, and giant planets. As such, **we have recorded two explanatory videos** to ensure that you retain this information. This is a **MANDATORY** part of our pre-seminar, and as such, we expect that you watch both videos for our pre-assessment content. 
 
 [Video 1: Pebble Accretion](https://drive.google.com/file/d/1GwvfK7t266neCJuLUy2Kvr96wk6vJUdW/view?usp=sharing)
 
-[Video 2: Giant Planets](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x)
+[Video 2: Giant Planets](https://drive.google.com/file/d/1VHWoDg31966nFL3cYWT0iK7bSJ3kic7s/view?usp=sharing)
  
 ## Pre-Assessment Material
 1. Complete the following quiz pertaining to the introductory videos
-2. NetLogo assignment
+2. NetLogo assignment (Assigned in your LUE groups): See Instructions below
+4. Optional (But HIGHLY recommended): Review the exoplanet classifications within our introductory video (From 7:38 to 11:51)
+
+## Introduction to Resonances: NetLogo Assignment
