@@ -30,9 +30,9 @@ Thank you for all your hard work thus far, and we are excited to continue our di
 
 ## Transition: Seminar 1 to Seminar 2
 
-You had questions, we answered! Using our survey, we compared the input you had at the beginning of the seminar with the feedback at the end. As a result, we have compiled the following document answering some of the most common questions reviewing the content. If you were left with any confusion at the end of our last seminar, use this to cross-reference the content and get a better understanding of the content. You can also refer back to our pre-assessment page since it contains important review material, links back to our introduction video, and gives helpful readings/videos.
+You had questions, we answered! Using our survey, we compared the input you had at the beginning of the seminar with the feedback at the end. As a result, we have compiled the following document answering some of the most common questions to refresh your knowledge. If you were left with any confusion at the end of our last seminar, use this to cross-reference the content and get a better understanding of the content. You can also refer back to our pre-assessment page since it contains important review material, links back to our introduction video, and gives helpful readings/videos.
 
-[Questions Answered from Last Seminar](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x)
+[Questions Answered from Last Seminar]((https://drive.google.com/file/d/16IPJuHXSyT6f1avTw2jxth9uizn4ontr/view?usp=sharing)
 
 Additionally, one of the main concepts we want to make sure you understand is the accretion of planetesimals into larger bodies, and giant planets. As such, **we have recorded two explanatory videos** to ensure that you retain this information. This is a **MANDATORY** part of our pre-seminar, and as such, we expect that you watch both videos for our pre-assessment content. 
 
