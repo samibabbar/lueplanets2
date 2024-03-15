@@ -34,7 +34,7 @@ You had questions, we answered! Using our survey, we compared the input you had 
 
 [Questions Answered from Last Seminar](https://drive.google.com/file/d/16IPJuHXSyT6f1avTw2jxth9uizn4ontr/view?usp=sharing)
 
-Additionally, one of the main concepts we want to make sure you understand is the accretion of planetesimals into larger bodies, and giant planets. As such, **we have recorded two explanatory videos** to ensure that you retain this information. This is a **MANDATORY** part of our pre-seminar, and as such, we expect that you watch both videos for our pre-assessment content. 
+Additionally, one of the main concepts we want to make sure you understand is the accretion of planetesimals into larger bodies, and giant planets. As such, **we have recorded two explanatory videos** to ensure that you retain this information. This is a **MANDATORY** part of our pre-seminar, and as such, we expect that you watch both videos. 
 
 [Video 1: Pebble Accretion](https://drive.google.com/file/d/1GwvfK7t266neCJuLUy2Kvr96wk6vJUdW/view?usp=sharing)
 
