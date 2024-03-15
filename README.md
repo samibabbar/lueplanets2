@@ -18,11 +18,11 @@ With this information, we can now transition into **seminar 2**. Until now, we h
 For this pre-assessment, please make sure that you complete all the material below. This includes:
 - Reviewing seminar 1 content and any questions that you may have
 - Completing all pre-assessment material **DUE BY 12:30 pm on Monday, March 18th, 2024**
-- This includes the NetLogo simulation and pre-assessment quiz based on the mandatory videos
+   - This includes the NetLogo simulation and pre-assessment quiz based on the mandatory videos
 
 Additionally, you must be prepared to go into the seminar by:
 - Bringing a writing utensil
-- Coordinating the pre-assessment with your LUE group and having prepared answers
+- Coordinating the NetLogo pre-assessment with your LUE group and having prepared answers
 
 Thank you for all your hard work thus far, and we are excited to continue our discussion on Monday!
 
@@ -42,7 +42,6 @@ Additionally, one of the main concepts we want to make sure you understand is th
  
 ## Pre-Assessment Material
 1. [Complete the following quiz pertaining to the introductory videos](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HchNo_KYDhA1NknGAniXeUkpUQVU0NE9WSkdJOUYzMUcySEExSjJRQTJKOS4u)
-2. NetLogo assignment (Assigned in your LUE groups): See Instructions below
+2. NetLogo assignment (Assigned in your LUE groups): [See Instructions ](https://docs.google.com/document/d/1XqRkPwjGGxmHVyHn__IfLvSMjbhBIAESKese1f1SfDA/edit?usp=sharing)
 4. Optional (But HIGHLY recommended): Review the exoplanet classifications within our [*introductory Video*](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x) (From 7:38 to 11:51)
 
-## Introduction to Resonances: NetLogo Assignment
