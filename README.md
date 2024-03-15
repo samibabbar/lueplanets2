@@ -30,7 +30,7 @@ Thank you for all your hard work thus far, and we are excited to continue our di
 
 ## Transition: Seminar 1 to Seminar 2
 
-You had questions, we answered! Using our survey, we compared the input you had at the beginning of the seminar with the feedback at the end. As a result, we have compiled the following document answering some of the most common questions to refresh your knowledge. If you were left with any confusion at the end of our last seminar, use this to cross-reference the content and get a better understanding of the content. You can also refer back to our pre-assessment page since it contains important review material, links back to our introduction video, and gives helpful readings/videos.
+You had questions, we answered! Using our survey, we compared the input you had at the beginning of the seminar with the feedback at the end. As a result, we have compiled the following document answering some of the most common questions to refresh your knowledge. If you were left with any confusion at the end of our last seminar, use this to cross-reference and get a better understanding of the content. You can also refer back to our pre-assessment page since it contains important review material, links back to our introduction video, and gives helpful readings/videos.
 
 [Questions Answered from Last Seminar](https://drive.google.com/file/d/16IPJuHXSyT6f1avTw2jxth9uizn4ontr/view?usp=sharing)
 
@@ -41,7 +41,7 @@ Additionally, one of the main concepts we want to make sure you understand is th
 [Video 2: Giant Planets](https://drive.google.com/file/d/1VHWoDg31966nFL3cYWT0iK7bSJ3kic7s/view?usp=sharing)
  
 ## Pre-Assessment Material
-1. [Complete the following quiz pertaining to the introductory videos](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HchNo_KYDhA1NknGAniXeUkpUQVU0NE9WSkdJOUYzMUcySEExSjJRQTJKOS4u)
+1. [Complete the following quiz pertaining to the introductory videos](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HchNo_KYDhA1NknGAniXeUkpUQVU0NE9WSkdJOUYzMUcySEExSjJRQTJKOS4u) - This is a short quiz with 4 questions
 2. NetLogo assignment (Assigned in your LUE groups): [See Instructions ](https://docs.google.com/document/d/1XqRkPwjGGxmHVyHn__IfLvSMjbhBIAESKese1f1SfDA/edit?usp=sharing)
 4. Optional (But HIGHLY recommended): Review the exoplanet classifications within our [*introductory Video*](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x) (From 7:38 to 11:51)
 
