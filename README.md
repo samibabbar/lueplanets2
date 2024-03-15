@@ -41,8 +41,8 @@ Additionally, one of the main concepts we want to make sure you understand is th
 [Video 2: Giant Planets](https://drive.google.com/file/d/1VHWoDg31966nFL3cYWT0iK7bSJ3kic7s/view?usp=sharing)
  
 ## Pre-Assessment Material
-1. Complete the following quiz pertaining to the introductory videos
+1. [Complete the following quiz pertaining to the introductory videos](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HchNo_KYDhA1NknGAniXeUkpUQVU0NE9WSkdJOUYzMUcySEExSjJRQTJKOS4u)
 2. NetLogo assignment (Assigned in your LUE groups): See Instructions below
-4. Optional (But HIGHLY recommended): Review the exoplanet classifications within our introductory video (From 7:38 to 11:51)
+4. Optional (But HIGHLY recommended): Review the exoplanet classifications within our [*introductory Video*](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x) (From 7:38 to 11:51)
 
 ## Introduction to Resonances: NetLogo Assignment
