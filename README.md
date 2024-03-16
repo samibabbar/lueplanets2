@@ -22,7 +22,8 @@ For this pre-assessment, please make sure that you complete all the material bel
 
 Additionally, you must be prepared to go into the seminar by:
 - Bringing a writing utensil
-- Coordinating the NetLogo pre-assessment with your LUE group and having prepared answers
+- Sitting within your LUE groups
+    - Coordinating the NetLogo pre-assessment with your group and having prepared answers
 
 Thank you for all your hard work thus far, and we are excited to continue our discussion on Monday!
 
