@@ -42,7 +42,7 @@ Additionally, one of the main concepts we want to make sure you understand is th
 [Video 2: Giant Planets](https://drive.google.com/file/d/1VHWoDg31966nFL3cYWT0iK7bSJ3kic7s/view?usp=sharing)
  
 ## Pre-Assessment Material
-1. [Complete the following quiz pertaining to the introductory videos](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HchNo_KYDhA1NknGAniXeUkpUQVU0NE9WSkdJOUYzMUcySEExSjJRQTJKOS4u) - This is a short quiz with 4 questions, and will be assessed for completion and effort in responses.
+1. [Complete the following quiz](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HchNo_KYDhA1NknGAniXeUkpUQVU0NE9WSkdJOUYzMUcySEExSjJRQTJKOS4u)  pertaining to video 1 (pebble accretion) and video 2 (giant planets) - This is a short quiz with 4 questions, and will be assessed for completion and effort in responses.
 2. NetLogo assignment (Assigned in your LUE groups): [See Instructions ](https://docs.google.com/document/d/1XqRkPwjGGxmHVyHn__IfLvSMjbhBIAESKese1f1SfDA/edit?usp=sharing)
 4. Optional (But HIGHLY recommended): Review the exoplanet classifications within our [*introductory Video*](https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x) (From 7:38 to 11:51)
 
